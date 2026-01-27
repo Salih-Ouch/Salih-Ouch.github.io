@@ -11,6 +11,7 @@ author_profile: true
 This animation shows the transient heat diffusion
 in a 2D domain.
 
+
 <img src="{{ site.baseurl }}/assets/images/Temperature-ezgif-com-video-to-gif-converter.gif"
      alt="Simulation"
      width="700">
