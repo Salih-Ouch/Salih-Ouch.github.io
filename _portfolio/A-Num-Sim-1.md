@@ -1,5 +1,5 @@
 ---
-title: "Leachate Flow and Biogas Production"
+title: "Leachate Flow and Biogas Production (Video)"
 excerpt: "  <br/><img src='/images/pic.png'>"
 collection: portfolio
 ---
