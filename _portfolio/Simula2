@@ -1,19 +1,1 @@
----
-title: "Simulation Nummm"
-permalink: /Simula2/
-layout: single
-author_profile: true
----
- 
-## Simulation Numérique : Conduction Thermique
-
-Voici la simulation thermique :
-
 <img src="pic.png" alt="Simulation thermique" width="700">
-
-### Détails de la simulation
-- **Équation :** ∂T/∂t = α ∇²T  
-- **Méthode :** FEM  
-- **Logiciel :** FreeFEM / Python
-
-
