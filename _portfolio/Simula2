@@ -1,14 +1,27 @@
+---
+title: "Simulations Numériques"
+permalink: /Simula2/
+layout: single
+author_profile: true
+---
+
 ## Simulation Numérique : Conduction Thermique
 
-Voici la simulation thermique :
+Cette simulation illustre la **diffusion thermique transitoire** dans un matériau composite à l'aide de la méthode des **éléments finis (FEM)**.
 
-![Simulation thermique](Temperature-ezgif-com-video-to-gif-converter.gif)
+![Simulation thermique](emperature-ezgif-com-video-to-gif-converter.gif)
 
 ### Détails de la simulation
-- **Équation :** ∂T/∂t = α ∇²T  
+- **Équation étudiée :** ∂T/∂t = α ∇²T  
 - **Méthode :** FEM  
-- **Logiciel :** FreeFEM / Python  
-- **Objectif :** Visualiser l’évolution de la température dans le temps.
+- **Logiciel utilisé :** FreeFEM / Python  
+- **Objectif :** Visualiser l’évolution de la température dans le temps et analyser les gradients thermiques.
 
+### Publications associées
+- S. Ouuu et al., *Journal of Thermal Science*, 2025  
+- S. Ouuu, *Numerical Heat Transfer*, 2024  
 
+### Notes
+- Le GIF ci-dessus montre l’évolution temporelle du champ de température.  
+- Pour une meilleure qualité ou animation plus longue, tu peux remplacer le GIF par une vidéo `.mp4`.
 
