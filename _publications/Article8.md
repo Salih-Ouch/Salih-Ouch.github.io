@@ -1,13 +1,14 @@
 ---
 title: |
-  <span style="color:#000000;"> **Ouchtout, S.**, Mghazli, Z., Harmand, J., Rapaport, A., & Belhachmi, Z. *Analysis of an anaerobic digestion model in landfill with mortality term*. **Communications in Pure and Applied Analysis**, 19(4), 2333-2346.</span>
-   <span style="color:#34a853;">(2020)</span>
+  <span style="color:#000000;"> Hardoul, A., Mghazli, Z., Ezzinbi, K.,  **Ouchtout, S**.  *Global attractor of a PDE model for the kinetics of Trichoderma fungi*.  hal-05403061 </span>
+   <span style="color:#d93025;">(2025)</span>
 collection: publications
 category: manuscripts
 venue: " "
 external_link: https://doi.org/10.xxxx/xxxxx
 excerpt: ' '
 ---
-BLBAABLABKA BLBAABLABKA BLBAABLABKA BLBAABLABKA BLBAABLABKA 
-  
- 
+
+Access URL: https://hal.science/hal-05403061/
+
+
