@@ -1,5 +1,8 @@
 ---
-title: " <span style="color:blue;"> Ouchtout, S. bleu</span>, Mghazli, Z., Harmand, J., Rapaport, A., & Belhachmi, Z. (2020). _Analysis of an anaerobic digestion model in landfill with mortality term._ Communications in Pure and Applied Analysis, 19(4), 2333-2346."
+title: |
+  <span style="color:#1a73e8;">Numerical Simulation</span>
+  <i><span style="color:#d93025;">of Heat Transfer</span></i>
+  in <b><span style="color:#34a853;">Porous Media</span></b>
 collection: publications
 category: manuscripts
 venue: " "
