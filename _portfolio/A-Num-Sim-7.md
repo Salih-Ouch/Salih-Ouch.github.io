@@ -1,6 +1,6 @@
 ---
 title: "Bacterial Biodegradation Modeling (Video)"
-excerpt: "  <br/><img src='/images/Pic7.png'>"
+excerpt: "  <br/><img src='/images/Pic7.png' width='300' height='200'>"
 collection: portfolio
 ---
 
