@@ -1,6 +1,6 @@
 ---
 title: "Trichoderma Fungi Kinetics (Video)"
-excerpt: "  <br/><img src='/images/pic.png'>"
+excerpt: "  <br/><img src='/images/Pic8.png'>"
 collection: portfolio
 ---
 
