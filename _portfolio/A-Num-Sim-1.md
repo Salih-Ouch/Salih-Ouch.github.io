@@ -1,8 +1,8 @@
 ---
 title: "Leachate Flow and Biogas Production (Video)"
 excerpt: "  <br/><img src='/images/Pic2b.png' width='300' height='200'>"
-collection: portfolio
 **Publication associée :** Journal of Thermal Science, 2025
+collection: portfolio
 ---
 
  
