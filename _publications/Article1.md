@@ -1,9 +1,8 @@
 ---
-title: "Numerical Investigation of Heat Transfer in Porous Media"
+title: " **Salas**, SSSSSS  AAAAAAA. *Numerical Investigation of Heat Transfer in Porous Media*"
 collection: publications
 category: manuscripts
 permalink: /publication/heat-transfer
-venue: "Journal of Something"
 venue: "&nbsp;"
 external_link: https://doi.org/10.xxxx/xxxxx
 ---
