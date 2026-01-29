@@ -1,6 +1,6 @@
 ---
 title: "Leachate Flow and Biogas Production (Video)"
-excerpt: "  <br/><img src='/images/Pic1.png' width='300' height='200'>"
+excerpt: "  <br/><img src='/images/Pic2b.png' width='300' height='200'>"
 collection: portfolio
 ---
 
