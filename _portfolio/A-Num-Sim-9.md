@@ -1,6 +1,6 @@
 ---
 title: "Bin-Packing (Video)"
-excerpt: "  <br/><img src='/images/pic.png' width='300' height='200'>"
+excerpt: "  <br/><img src='/images/Pic0.png' width='300' height='200'>"
 collection: portfolio
 ---
 
