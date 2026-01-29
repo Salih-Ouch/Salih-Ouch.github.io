@@ -1,6 +1,6 @@
 ---
 title: "Conduction-Radiation Heat Transfer (Video)"
-excerpt: "  <br/><img src='/images/Pic4.png'>"
+excerpt: "  <br/><img src='/images/Pic4.png' width='300' height='200'>"
 collection: portfolio
 ---
 
