@@ -7,7 +7,7 @@ venue: "Université de Technologie de Compiègne, Department LMAC"
 date: 2025-01-01
 location: "Compiègne, France"
 excerpt: 'Cliquez sur cet élément pour consulter la description détaillée.'
----
+--- 
 
 
 Analyse mathématique de base : suites et séries numériques, convergence et applications.
