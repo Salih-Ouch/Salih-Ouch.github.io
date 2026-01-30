@@ -3,12 +3,11 @@ title: "Première expérience d’enseignement à l’Université de Technologie
 collection: teaching
 type: "Cliquez sur cet élément pour consulter la description détaillée"
 permalink: /teaching/2014-spring-teaching-1
-venue: " "
-date:  
-location: " "
+venue: "dddd "
+date:  22
+location: " vvvv"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1 
 ======
