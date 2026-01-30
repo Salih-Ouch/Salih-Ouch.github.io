@@ -1,6 +1,6 @@
 ---
 title: |
-  <span style="color:#800080;"> **S. Ouchtout**, Z. Belhachmi and Z. Mghazli. *Modeling and simulation of leachate flow in the anaerobic biodegradation of household waste*., The 9th International Congress on Industrial and Applied Mathematics, ICIAM July 15-19 Valencia-Spain, 16 July 2019. </span>
+  <span style="color:#800080;"> S. Ouchtout, B. Rousseau and Y. Favennec . A high performance computing framework for finite element modelling of conductive and radiative heat transfers within heterogeneous ceramics., 3rd Annual GDR TAMARYS Days, 29 Nov-1 December 2021, Talence, France. </span>
   <b><span style="color:#d93025;"> (France , 2021) </span></b>
 collection: talks
 type: "Talk"
