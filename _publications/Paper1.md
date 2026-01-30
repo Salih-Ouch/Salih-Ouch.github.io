@@ -1,13 +1,14 @@
 ---
 title: |
-  <span style="color:#000000;"> **Ouchtout, S.**, Mghazli, Z., Harmand, J., Rapaport, A., & Belhachmi, Z. *Analysis of an anaerobic digestion model in landfill with mortality term*. **Communications in Pure and Applied Analysis**, 19(4), 2333-2346.</span>
-   <span style="color:#d93025;">(2020)</span>
+  <span style="color:#000000;"> F. Valet, **S. Ouchtout** and M. Houillon. Étude statique et dynamique d’un problème d’empilement.  HAL-Id :01973909. </span>
+   <span style="color:#d93025;">(2019)</span>
 collection: publications
-category: conferences
+category: manuscripts
 venue: " "
 external_link: https://doi.org/10.xxxx/xxxxx
 excerpt: ' '
 ---
-BLBAABLABKA BLBAABLABKA BLBAABLABKA BLBAABLABKA BLBAABLABKA 
-  
- 
+
+Access URL:  https://hal.science/hal-01973909/
+
+
