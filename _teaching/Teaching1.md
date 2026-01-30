@@ -1,9 +1,9 @@
 ---
 title: "Première expérience d’enseignement à l’Université de Technologie de Compiègne – Année universitaire 2024–2025 (Deuxième semestre)"
 collection: teaching
-type: 
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1 
-venue: "Université de Technologie de Compiègne"
+venue: "Laboratoire LMAC, Université de Technologie de Compiègne"
 date: 2025
 location: "Compiègne, France"
 excerpt: 'Cliquez sur cet élément pour consulter la description détaillée.'
