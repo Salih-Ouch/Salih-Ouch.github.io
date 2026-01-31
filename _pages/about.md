@@ -15,7 +15,8 @@ Prior to this, I was a postdoctoral researcher at the [LTeN](https://lten.cnrs.f
 **_Area of research_**
 
 My area of research is Applied Mathematics. My actual research focuses on modeling, scientific computing, numerical analysis with applications to the following themes:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+
+- 
+- 
+- 
 
